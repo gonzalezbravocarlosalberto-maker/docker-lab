@@ -1,26 +1,19 @@
-\# Laboratorio Docker
+# Laboratorio Docker
 
+## Construcción de la imagen
 
+docker build -f holamundo.dockerfile -t hola_docker .
 
-\## Construcción de la imagen
+## Ejecución del contenedor
 
+docker run hola_docker
 
+## Resultado
 
-docker build -f holamundo.dockerfile -t hola\_docker .
+El contenedor ejecuta la herramienta `figlet` para mostrar texto en formato ASCII desde una imagen basada en Ubuntu.
 
+## Tecnologías usadas
 
-
-\## Ejecución del contenedor
-
-
-
-docker run hola\_docker
-
-
-
-\## Descripción
-
-
-
-Este laboratorio crea una imagen basada en Ubuntu que instala la herramienta figlet para mostrar texto en formato ASCII dentro de un contenedor Docker.
-
+- Docker
+- Ubuntu
+- Figlet
