@@ -52,3 +52,14 @@ Si prefieres construir la imagen en tu propio entorno:
 
 **Autor:** Carlos Alberto González Bravo  
 *Ingeniero Industrial | Especialización en Ciberseguridad (UNIMINUTO)*
+
+---
+
+## 📁 Laboratorios Desarrollados
+
+A continuación, puedes navegar por los diferentes laboratorios prácticos desarrollados durante la especialización:
+
+- [Lab 1: Hola Mundo en Docker](./Lab_01_Hola_Mundo/README.md)
+- [Lab 2: Acceso Público de Contenedores](./Lab_02_Acceso_Publico/README.md)
+- [Lab 3: Orquestación con Docker Compose](./Lab_03_Docker_Compose/README.md)
+- [Lab 4: Gestión de Redes en Docker](./Lab_04_Redes_Docker/README.md)
